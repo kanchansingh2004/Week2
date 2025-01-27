@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.LibraryManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.LibraryManagementSystem;
 
 // Book class extends LibraryItem and implements Reservable interface
 public class Book extends LibraryItem implements Reservable {

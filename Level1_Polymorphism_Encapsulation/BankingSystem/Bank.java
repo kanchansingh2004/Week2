@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.BankingSystem;
+package Day6.Level1_Polymorphism_Encapsulation.BankingSystem;
 
 // import packages for ArrayList
 import java.util.ArrayList;

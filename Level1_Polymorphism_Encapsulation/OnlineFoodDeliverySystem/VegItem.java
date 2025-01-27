@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.OnlineFoodDeliverySystem;
+package Day6.Level1_Polymorphism_Encapsulation.OnlineFoodDeliverySystem;
 
 // VegItem class extends FoodItem class and implements Discountable interface
 public class VegItem extends FoodItem implements Discountable {

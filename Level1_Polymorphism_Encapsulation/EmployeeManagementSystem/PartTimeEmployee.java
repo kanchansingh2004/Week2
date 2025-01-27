@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.EmployeeManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.EmployeeManagementSystem;
 
 // PartTimeEmployee class extends Employee class and implements Department interface
 public class PartTimeEmployee extends Employee implements Department{

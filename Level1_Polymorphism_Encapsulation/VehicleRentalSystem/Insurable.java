@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.VehicleRentalSystem;
+package Day6.Level1_Polymorphism_Encapsulation.VehicleRentalSystem;
 
 //Create an interface Insurable with the following methods:
 public interface Insurable {

@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.RideHailingApplication;
+package Day6.Level1_Polymorphism_Encapsulation.RideHailingApplication;
 // Interface GPS
 public interface GPS {
     // Abstract methods

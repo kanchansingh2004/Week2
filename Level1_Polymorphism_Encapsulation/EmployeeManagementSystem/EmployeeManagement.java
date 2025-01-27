@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.EmployeeManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.EmployeeManagementSystem;
 
 // Import required classes
 import java.util.ArrayList;

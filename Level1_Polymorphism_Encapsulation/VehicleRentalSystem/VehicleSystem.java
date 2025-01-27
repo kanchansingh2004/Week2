@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.VehicleRentalSystem;
+package Day6.Level1_Polymorphism_Encapsulation.VehicleRentalSystem;
 // Importing required packages
 import java.util.ArrayList;
 import java.util.List;
@@ -19,15 +19,15 @@ public class VehicleSystem {
         vehicles.add(bike);
         vehicles.add(truck);
 
-        // Iterate over each vehicles and calculate costs
+        // Iterate over each vehicle and calculate costs
         int rentalDays = 3; // Example rental duration
         for (Vehicle vehicle : vehicles) {
             System.out.println("Vehicle Details:");
             vehicle.getVehicleDetails();
             System.out.println("Rental Cost for " + rentalDays + " days: " + vehicle.calculateRentalCost(rentalDays));
 
-            System.out.println("Insurance Cost: " + ((Insurable) vehicle).calculateInsurance());
-            System.out.println(((Insurable) vehicle).getInsuranceDetails());
+            System.out.println("Insurance Cost: " + vehicle.calculateInsurance());
+            System.out.println( vehicle.getInsuranceDetails());
             System.out.println("-------------------------");
         }
     }

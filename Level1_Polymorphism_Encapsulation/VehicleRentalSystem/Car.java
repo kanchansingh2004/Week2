@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.VehicleRentalSystem;
+package Day6.Level1_Polymorphism_Encapsulation.VehicleRentalSystem;
 
 // Car class extending Vehicle
 public class Car extends Vehicle{

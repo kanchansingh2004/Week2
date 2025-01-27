@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.RideHailingApplication;
+package Day6.Level1_Polymorphism_Encapsulation.RideHailingApplication;
 
 // Car class which extends Vehicle and implements GPS interface
 public class Car extends Vehicle implements GPS{

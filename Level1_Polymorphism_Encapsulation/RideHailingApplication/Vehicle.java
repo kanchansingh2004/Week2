@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.RideHailingApplication;
+package Day6.Level1_Polymorphism_Encapsulation.RideHailingApplication;
 
 //create an abstract class Vehicle
 public abstract class Vehicle {

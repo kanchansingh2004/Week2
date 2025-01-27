@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.HospitalManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.HospitalManagementSystem;
 
 // Abstract class Patient to store patient details
 public abstract class Patient {

@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.OnlineFoodDeliverySystem;
+package Day6.Level1_Polymorphism_Encapsulation.OnlineFoodDeliverySystem;
 
 // Interface Discountable
 public interface Discountable {

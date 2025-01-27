@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.ECommercePlateform;
+package Day6.Level1_Polymorphism_Encapsulation.ECommercePlateform;
 import java.awt.*;
 //Create a class Groceries that extends Product and implements Texable interface
 public class Groceries extends Product implements Texable {

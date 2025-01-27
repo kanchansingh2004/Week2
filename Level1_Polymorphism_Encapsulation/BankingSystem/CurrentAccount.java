@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.BankingSystem;
+package Day6.Level1_Polymorphism_Encapsulation.BankingSystem;
 
 //Creating CurrentAccount class which extends BankAccount and implements Loanable
 public class CurrentAccount extends BankAccount implements Loanable {

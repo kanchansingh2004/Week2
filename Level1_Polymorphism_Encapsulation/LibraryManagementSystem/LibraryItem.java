@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.LibraryManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.LibraryManagementSystem;
 
 //Create an abstract class LibraryItem with the following attributes and methods:
 public abstract class LibraryItem {

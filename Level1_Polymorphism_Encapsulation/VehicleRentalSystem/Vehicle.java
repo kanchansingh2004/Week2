@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.VehicleRentalSystem;
+package Day6.Level1_Polymorphism_Encapsulation.VehicleRentalSystem;
 
 //create an abstract class Vehicle that implements Insurable
 public abstract class Vehicle implements Insurable {

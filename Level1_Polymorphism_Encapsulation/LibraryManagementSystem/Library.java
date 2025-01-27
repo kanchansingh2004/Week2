@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.LibraryManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.LibraryManagementSystem;
 // Importing required packages
 import java.util.ArrayList;
 public class Library {

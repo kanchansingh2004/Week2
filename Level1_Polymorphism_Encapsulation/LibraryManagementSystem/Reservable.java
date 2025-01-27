@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.LibraryManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.LibraryManagementSystem;
 
 //Create an interface Reservable with the following methods
 public interface Reservable {

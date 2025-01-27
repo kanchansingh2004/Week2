@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.ECommercePlateform;
+package Day6.Level1_Polymorphism_Encapsulation.ECommercePlateform;
 //Importing the required packages
 import java.util.ArrayList;
 

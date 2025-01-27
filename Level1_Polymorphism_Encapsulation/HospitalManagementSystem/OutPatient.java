@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.HospitalManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.HospitalManagementSystem;
 // Importing required packages
 import java.util.ArrayList;
 

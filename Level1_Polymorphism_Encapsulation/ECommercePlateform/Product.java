@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.ECommercePlateform;
+package Day6.Level1_Polymorphism_Encapsulation.ECommercePlateform;
 
 //Create an abstract class Product that implements Texable interface
 abstract class Product {

@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.EmployeeManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.EmployeeManagementSystem;
 
 // Abstract class Employee
 public abstract class Employee implements Department {

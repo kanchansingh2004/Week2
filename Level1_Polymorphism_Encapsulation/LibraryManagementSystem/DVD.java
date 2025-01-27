@@ -1,4 +1,4 @@
-package Day6.Level1_Polymorphism.LibraryManagementSystem;
+package Day6.Level1_Polymorphism_Encapsulation.LibraryManagementSystem;
 
 // DVD class is a subclass of LibraryItem and implements Reservable interface
 public class DVD extends LibraryItem implements Reservable{
